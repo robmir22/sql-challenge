@@ -2,11 +2,11 @@ Employees as emp
 ------------------------------------
 emp_no PK int
 emp_title_id string
-birth_date
+birth_date date
 first_name varchar(100)
 last_name varchar(100)
 sex varchar(1)
-hire_date
+hire_date date
 
 DepartmentEmployee as dept_emp
 ------------
